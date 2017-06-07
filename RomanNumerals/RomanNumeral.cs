@@ -50,7 +50,7 @@ namespace RomanNumerals
             return ret; 
         }
 
-        public string GetRomanValueFromArabicNumKK(int number)
+        public string GetRomanValueFromArabicNumFirst(int number)
         {
             string  romanNumber;
 
